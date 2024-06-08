@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp");
+    font-family: Verdana;
+}
+h1 {
+    width: 1200px;
+}
+.icons {
+
+}
+.welcome {
+  color: grey;
+  font-size: 56px;
+}
+nav {
+
+}
+
+.bgimg {
+    
+}
+
+.footertxt{
+    color: white;
+}
+
+header,footer{
+    position: absolute;
+    width: 100%;
+}
+
+header {
+    height: 100px;
+    background-color: black;
+}
+
+footer {
+    background-color: black;   
+    height: 100px;
+    bottom: 0;
+}
